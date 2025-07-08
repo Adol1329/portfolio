@@ -66,5 +66,4 @@ public/
 - **LinkedIn:** [uwayo-adolphe-956b27373](https://www.linkedin.com/in/uwayo-adolphe-956b27373)
 - **X (Twitter):** [AdolpheUwayo](https://x.com/AdolpheUwayo)
 ---
-> _Building
 
