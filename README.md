@@ -63,15 +63,8 @@ public/
 ## 🤝 Contact
 - **Email:** [adolpheuwayo12@gmail.com](mailto:adolpheuwayo12@gmail.com)
 - **GitHub:** [Adol1329](https://github.com/Adol1329)
-- **LinkedIn:** [adolphe-uwayo](https://linkedin.com/in/adolphe-uwayo)
+- **LinkedIn:** [uwayo-adolphe-956b27373](https://www.linkedin.com/in/uwayo-adolphe-956b27373)
 - **X (Twitter):** [AdolpheUwayo](https://x.com/AdolpheUwayo)
 ---
 > _Building
 
-## 🤝 Contact
-- **Email:** [adolpheuwayo12@gmail.com](mailto:adolpheuwayo12@gmail.com)
-- **GitHub:** [Adol1329](https://github.com/Adol1329)
-- **LinkedIn:** [uwayo-adolphe-956b27373](https://www.linkedin.com/in/uwayo-adolphe-956b27373)
-- **X (Twitter):** [AdolpheUwayo](https://x.com/AdolpheUwayo)
-
-provide a professional readme
